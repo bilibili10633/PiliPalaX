@@ -148,6 +148,8 @@ dependencies:
   marquee: ^2.2.3
   #富文本
   extended_text: ^14.0.1
+  #解压直播消息
+  brotli: ^0.6.0
 dependency_overrides:
   mime:
     git: https://github.com/orz12/mime.git
